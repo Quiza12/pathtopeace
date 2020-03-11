@@ -1,4 +1,4 @@
-title: Stackbit Fjord Theme
+title: Path to Peace
 baseurl: /
 permalink: '/:title/'
 collections:
@@ -7,17 +7,20 @@ collections:
 header:
   title: Fjord
   tagline: Minimal and clean blog theme
-  logo_img: images/logo.png
-  bg_img: images/header-bg.jpg
+  logo_img: images/path-to-peace.png
+  bg_img: images/header-bg-ripples.jpg
   has_nav: true
-  has_social: true
+  has_social: trues
 footer:
   content: '&copy; All rights reserved.'
   links:
     - text: Made with Stackbit
       url: 'https://www.stackbit.com'
       new_window: true
-palette: yellow
+    - text: Made by Matthew Querzoli
+      url: 'https://www.matthewquerzoli.com'
+      new_window: true
+palette: blue
 sass:
   indentWidth: 4
   style: nested
