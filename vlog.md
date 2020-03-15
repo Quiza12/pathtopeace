@@ -1,10 +1,7 @@
 ---
-title: Style Guide
-subtitle: >-
-  The style guide provides you with a blueprint of default post and page styles.
-  The style guide is also a great reference for suggested typographic treatment
-  and styles for your content.
-img_path: images/style-guide.jpg
+title: Vlogs
+subtitle: Vlogs, vlogs, vlogs.
+img_path: images/header-bg-ripples.jpg
 menus:
   main:
     title: Style Guide

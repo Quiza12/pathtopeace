@@ -1,7 +1,7 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work
-img_path: images/about.jpg
+subtitle: Hi, I'm Lachie
+img_path: images/header-bg-ripples.jpg
 menus:
   main:
     weight: 2
@@ -15,4 +15,4 @@ layout: page
 
 He runs this website in order to help himself, and hopefully others.
 
-*Thank You for reading!*
+*Whoever you are, cheers for reading.*
