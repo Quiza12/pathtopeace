@@ -4,5 +4,5 @@ menus:
   main:
     title: Blog
     weight: 2
-layout: Blog
+layout: blog
 ---
