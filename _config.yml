@@ -1,5 +1,5 @@
 title: Path to Peace
-baseurl: /
+baseurl: /home
 permalink: '/:title/'
 collections:
   posts:
