@@ -4,19 +4,19 @@ subtitle: This is some music I've found to be helpful
 img_path: images/header-bg-ripples.jpg
 menus:
   main:
-    weight: 2
+    weight: 4
     title: Music
 layout: page
 ---
 
-## Big Tunas
+### Big Tunas
 
 Go the pros.
 
 + [Charlie - Mallrat](https://www.youtube.com/watch?v=9C1flskssaQ)
 + [As You Are - Bianca Muniz](https://www.youtube.com/watch?v=9C1flskssaQ)
 
-## Small Tunas
+### Small Tunas
 
 Represents a list of items.
 

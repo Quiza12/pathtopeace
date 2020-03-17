@@ -1,11 +1,11 @@
 ---
-title: Vlogs
+title: YouTube
 subtitle: Vlogs, vlogs, vlogs.
 img_path: images/header-bg-ripples.jpg
 menus:
   main:
-    title: Style Guide
-    weight: 3
+    title: Vlogs
+    weight: 7
 layout: page
 ---
 

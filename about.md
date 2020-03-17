@@ -4,7 +4,7 @@ subtitle: Hi, I'm Lachie
 img_path: images/header-bg-ripples.jpg
 menus:
   main:
-    weight: 2
+    weight: 3
     title: About
 layout: page
 ---

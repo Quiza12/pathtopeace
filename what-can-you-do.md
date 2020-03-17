@@ -1,23 +1,23 @@
 ---
-title: Resources
+title: What Can YOU Do?
 subtitle: These are some resources I've found helpful
 img_path: images/header-bg-ripples.jpg
 menus:
   main:
-    weight: 2
-    title: Resources
+    weight: 6
+    title: What Can YOU Do?
 layout: page
 ---
 
-## Professional Resources
+### Professional Resources
 
 Go the pros.
 
 + https://www.lifeline.org.au/
 
-## Other Stuff
+### Other Stuff
 
-Represents a list of items. 
+Represents a list of items.
 
 1. Donec non tortor in arcu mollis feugiat
 2. Lorem ipsum dolor sit amet, consectetuer adipiscing elit

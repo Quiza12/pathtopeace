@@ -4,14 +4,11 @@ subtitle: These is some quotes I've found to be helpful
 img_path: images/header-bg-ripples.jpg
 menus:
   main:
-    weight: 2
+    weight: 5
     title: Quotes
 layout: page
 ---
 
-## Quotes
-
-+ "YOU'VE GOT TO LEARN TO FOLLOW THINGS THROUGH - IF YOU CARE ABOUT SOMETHING, YOU'VE GOT TO SEE IT ALL THE WAY TO THE END, YOU'VE GOT TO TRY TO FINISH IT." - A Prayer for Owen Meany - John Irving
 + "In the world according to her father, Jenny Garp knew, we must have energy." - The World According to Garp
 + "You only grow by coming to the end of something and by beginning something else." - The World According to Garp - John Irving
 + "When you come to a fork in the road, take it." - Yogi Berra
