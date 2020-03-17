@@ -297,7 +297,7 @@ models:
   home:
     type: page
     label: Blog
-    template: home
+    template: blog
     file: blog.md
     hideContent: true
     singleInstance: true
