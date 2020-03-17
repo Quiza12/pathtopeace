@@ -296,7 +296,7 @@ models:
         label: Avatar
   home:
     type: page
-    label: Home
+    label: Blog
     template: home
     file: blog.md
     hideContent: true
