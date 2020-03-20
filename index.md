@@ -1,5 +1,6 @@
 ---
 title: Welcome to Path to Peace
+img_path: images/header-bg-ripples.jpg
 menus:
   main:
     weight: 1
