@@ -296,6 +296,23 @@ models:
         label: Avatar
   home:
     type: page
+    label: Home
+    template: home
+    file: index.md
+    hideContent: true
+    singleInstance: true
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the page.
+        required: true
+      - type: page_menus
+        name: menus
+        label: Home Menus
+        description: Which menus should this page show up in
+  blog:
+    type: page
     label: Blog
     template: blog
     file: blog.md
