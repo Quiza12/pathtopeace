@@ -1,6 +1,7 @@
 #!/bin/sh
 #Double click on this file in Finder to upload your changes and make them live.
 
+cd /Users/matthewquerzoli/Dropbox/Projects/pathtopeace/
 echo "##### Path to Peace #####"
 echo "--- Publishing new changes to your website ---"
 read -p "-- What changes did you make? Press Enter when done: " commitComment
