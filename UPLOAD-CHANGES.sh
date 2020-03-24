@@ -7,6 +7,6 @@ read -p "-- What changes did you make? Press Enter when done: " commitComment
 echo "-- Staging changes --"
 git add .
 echo "-- Committing changes --"
-git commit -m commitComment
+git commit -m "$commitComment"
 echo "-- Pushing changes --"
 git push
