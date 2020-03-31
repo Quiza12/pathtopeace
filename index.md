@@ -1,5 +1,5 @@
 ---
-title: Welcome to Path to Peace
+title: Path to Peace
 img_path: images/header-bg-ripples.jpg
 menus:
   main:
