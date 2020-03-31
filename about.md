@@ -15,4 +15,4 @@ layout: page
 
 He runs this website in order to help himself, and hopefully others.
 
-*Whoever you are, cheers for reading.*
+*Whoever you are, cheers for reading.* 
