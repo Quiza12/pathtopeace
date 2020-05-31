@@ -16,6 +16,4 @@ Instrumentals will be included as well
 
 Feel free to send in any recommendations to add to the playlist. All about the good vibes and happy thoughts!
 
-TODO LINK TO CHANNEL
-+ [Charlie - Mallrat](https://www.youtube.com/watch?v=9C1flskssaQ)
-+ [As You Are - Bianca Muniz](https://www.youtube.com/watch?v=9C1flskssaQ)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL-AaaRr6J9YomHlGgpAB4Mz1qlq5ciJko" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

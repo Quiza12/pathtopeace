@@ -14,7 +14,7 @@ One word: Empower. We strive to empower YOU with the skills, strategies and know
 
 * [Interviews]({% link interviews.md %})
 * [Blog]({% link blog.md %})
-* [Activites for your spare time]({% link small-time-big-wins.md %})
+* [Little Wins]({% link little-wins.md %})
 * [Voluntary Submissions]({% link voluntary-submissions.md %})
 * [Food For Thought]({% link food-for-thought.md %})
 * [Music]({% link music.md %})

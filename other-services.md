@@ -10,9 +10,9 @@ layout: page
 
 These are some other online services that are great for informing and empowering you:
 
-+ https://www.beyondblue.org.au/
-+ https://www.healthline.com/
-+ https://www.ruok.org.au/
-+ https://www.brainpickings.org/
-+ https://au.reachout.com/
-+ https://www.verywellmind.com/
++ [Beyond Blue](https://www.beyondblue.org.au/)
++ [Healthline](https://www.healthline.com/)
++ [R U OK](https://www.ruok.org.au/)
++ [Brain Pickings](https://www.brainpickings.org/)
++ [REACH OUT](https://au.reachout.com/)
++ [very well mind](https://www.verywellmind.com/)

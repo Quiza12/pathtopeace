@@ -15,7 +15,3 @@ As the saying goes, they are simply ‘food for thought’ as you get on with yo
 Short, to the point, easy to consume and meant to incite positive, forward-thinking.
 
 Think of them as little things to remember on your path; small reminders to keep you on your path.
-
-###Feed Me!
-
-LIST
