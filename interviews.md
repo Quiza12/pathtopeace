@@ -37,4 +37,4 @@ In this interview, Finn speaks on his anxiety and confusion surrounding his futu
 
 # April's Interview
 ## Interview #3
-In this interview, April details her chaotic year of 2019, filled with financial, university and relationship problems. She sought clarity through her family, friends, and simply facing the problems head-on with a strong attitude.
+In this interview, April details her chaotic year of 2019, filled with financial, university and relationship problems. She sought clarity through her family, friends, and embracing the challenges head-on with a strong attitude.
