@@ -21,6 +21,7 @@ Feel free to [contact me](mailto:lachlan.querzoli@gmail.com) if you’d like to 
 # April's Interview
 ## Interview #3
 In this interview, April details her chaotic year of 2019, filled with financial, university and relationship problems. She sought clarity through her family, friends, and embracing the challenges head-on with a strong attitude.
+Out on Sunday 7th June @12pm !
 
 # Finn's Interview 
 ## Interview #2
