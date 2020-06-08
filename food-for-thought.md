@@ -12,6 +12,6 @@ Food For Thought are small, miscellaneous pieces of information I like to produc
 
 As the saying goes, they are simply ‘food for thought’ as you get on with your day.
 
-Short, to the point, easy to consume and meant to incite positive, forward-thinking.
+As stated before, very miscellanous. Short and long, to the point and broad, raw and easy to consume. Designed to incite positive, forward-thinking and healthy action for yourself and those in your community.
 
 Think of them as little things to remember on your path; small reminders to keep you on your path.
