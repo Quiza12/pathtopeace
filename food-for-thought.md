@@ -15,3 +15,9 @@ As the saying goes, they are simply ‘food for thought’ as you get on with yo
 As stated before, very miscellanous. Short and long, to the point and broad, raw and easy to consume. Designed to incite positive, forward-thinking and healthy action for yourself and those in your community.
 
 Think of them as little things to remember on your path; small reminders to keep you on your path.
+
+# "Ryan" - Food For thought #1
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G-iax7JNloA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# "Walk 1" - Food For Thought #2
+
