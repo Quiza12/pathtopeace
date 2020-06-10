@@ -14,4 +14,13 @@ These are great for awkward, inconvenient amounts of time that arise due to unpr
 
 Citing from personal experience, these have all had an extremely positive impact on my mental health, as I said before, granting a 'little win' as I continue with the day. These have improved my mood, focus and productivity.
 
+# 5 minute activties
+
+## Positive affirmations
+* “I will be okay!”
+* “I am right in this moment!”
+* “I am strong!”
+* “I will love!”
+* “One day at a time!”
+* “I trust in the universe!”
 
