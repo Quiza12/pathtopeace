@@ -14,9 +14,26 @@ These are great for awkward, inconvenient amounts of time that arise due to unpr
 
 Citing from personal experience, these have all had an extremely positive impact on my mental health, as I said before, granting a 'little win' as I continue with the day. These have improved my mood, focus and productivity.
 
-# 5 minute activties
+# Psychological Winning
 
-## Positive affirmations
+# Evie's Exercises
+
+
+# 5 minute Activities
+## Breathing technique: 4-4-6 or Lachie’s technique
+A simple breathing technique to easily practice.
+* Standing up straight/lying down on your back- arms spread
+* Inhale for roughly 4 seconds
+* Hold for 4 seconds
+* Exhale for 6 seconds
+* Gradually, your lungs will open up enough to allow longer inhale and exhale times- encourage this
+* Focus on something simple
+  * Object/s
+  * The wall
+  * The ceiling
+
+
+### Positive Affirmations
 * “I will be okay!”
 * “I am right in this moment!”
 * “I am strong!”
@@ -24,3 +41,13 @@ Citing from personal experience, these have all had an extremely positive impact
 * “One day at a time!”
 * “I trust in the universe!”
 
+## Easy 5 minute workout
+## Yoga Session
+## Music/Jam session
+## Re-fresh lists
+
+# 10 minute Activities
+
+# 30 minute Activities
+
+# 1 hour Activities
