@@ -18,6 +18,14 @@ The aim is to establish the issues, and providing, in reflection:
 
 Feel free to [contact me](mailto:lachlan.querzoli@gmail.com) if you’d like to be featured in an interview!
 
+# Ariana's Interview
+## Interview #4
+In this interview, Ariana discusses the impact that Insomnia, Depression, Co-morbid Anxiety and ADHD has had on her life for the past couple years. She has found relief and freedom in friendship, individuality, creativity, music and positive affirmations!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q_HIdDufPCw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Ariana's Highlights
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OlzFL6JLke8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # April's Interview
 ## Interview #3
 In this interview, April details her chaotic year of 2019, filled with financial, university and relationship problems. She sought clarity through her family, friends, and embracing the challenges head-on with a strong attitude.
