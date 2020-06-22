@@ -16,39 +16,44 @@ The aim is to establish the issues, and providing, in reflection:
 + Revelations
 + Hope
 
+I highly recommend watching these in full (if you can!)
+
 Feel free to [contact me](mailto:lachlan.querzoli@gmail.com) if you’d like to be featured in an interview!
 
-# Ariana's Interview
-## Interview #4
+# Ella's Interview #5
+## Full Interview
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s8nRIcRo-i8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Ella's Highlights
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-ymO7lLKzI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Ariana's Interview #4
+## Full Interview  
 In this interview, Ariana discusses the impact that Insomnia, Depression, Co-morbid Anxiety and ADHD has had on her life for the past couple years. She has found relief and freedom in friendship, individuality, creativity, music and positive affirmations!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q_HIdDufPCw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Ariana's Highlights
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OlzFL6JLke8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# April's Interview
-## Interview #3
+# April's Interview #3
+## Full Interview 
 In this interview, April details her chaotic year of 2019, filled with financial, university and relationship problems. She sought clarity through her family, friends, and embracing the challenges head-on with a strong attitude.
-Out on Sunday 7th June @12pm !
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HtW6SnE8iCY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### April's Highlights
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1i_AXIB6xXw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Finn's Interview 
-## Interview #2
+# Finn's Interview #2
+## Interview 
 In this interview, Finn speaks on his anxiety and confusion surrounding his future. He found reassurance in family, friends, and others who felt the same way and he is moving forward with a healthy schedule for a healthy future.
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TQSvDMaiX1U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Finn's Highlights
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p3J3WEQXgS4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Coady's Interview
-## Interview #1
+# Coady's Interview #1
+## Interview 
 In this interview, Coady speaks on her anorexia nervosa, anxiety and depression. She found rehabilitation at a private hospital, and is moving forward in great stride with a variety of plans and strategies, along with the support of her friends to regain control of her and mind and body.
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/65k7MdcmVWw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Coady's Highlights
