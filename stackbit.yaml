@@ -425,7 +425,7 @@ models:
   post2:
     type: page
     label: Post
-    template: post
+    template: post2
     folder: _posts2
     fields:
       - type: string
