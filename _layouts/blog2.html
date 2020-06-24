@@ -9,26 +9,26 @@ layout: body
 
       <div class="post-feed">
         {% assign display_posts = '/posts2' | get_pages | sort: 'date' | reverse %}
-        {% for post in display_posts %}
-        <article class="post">
+        {% for post2 in display_posts %}
+        <article class="post2">
           <header class="post-header">
-            <h2 class="post-title"><a href="{{ post.url | relative_url }}" rel="bookmark">{{ post.title }}</a></h2>
+            <h2 class="post-title"><a href="{{ post2.url | relative_url }}" rel="bookmark">{{ post2.title }}</a></h2>
             <div class="post-meta">
               Published on <time class="published"
-                datetime="{{ post.date | date: '%Y-%m-%d %H:%M' }}">{{ post.date | date: '%B %d, %Y' }}</time>
+                datetime="{{ post2.date | date: '%Y-%m-%d %H:%M' }}">{{ post2.date | date: '%B %d, %Y' }}</time>
             </div>
           </header><!-- .post-header -->
           {% assign thumb_img_path_is_not_empty = post.thumb_img_path | is_not_empty %}
           {% if thumb_img_path_is_not_empty %}
-          <a class="post-thumbnail" href="{{ post.url | relative_url }}">
-            <img class="thumbnail" src="{{ post.thumb_img_path | relative_url }}" alt="{{ post.title }}" />
+          <a class="post-thumbnail" href="{{ post2.url | relative_url }}">
+            <img class="thumbnail" src="{{ post2.thumb_img_path | relative_url }}" alt="{{ post2.title }}" />
           </a>
           {% endif %}
           <div class="post-content">
-            <p>{{ post.excerpt }}</p>
+            <p>{{ post2.excerpt }}</p>
           </div><!-- .post-content -->
           <p class="read-more">
-            <a class="read-more-link" href="{{ post.url | relative_url }}">Keep reading <span class="icon-arrow-right" aria-hidden="true"></span></a>
+            <a class="read-more-link" href="{{ post2.url | relative_url }}">Keep reading <span class="icon-arrow-right" aria-hidden="true"></span></a>
           </p>
         </article><!-- .post -->
         {% endfor %}

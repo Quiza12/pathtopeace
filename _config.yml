@@ -4,6 +4,8 @@ permalink: '/:title/'
 collections:
   posts:
     permalink: '/posts/:title/'
+  posts2:
+    permalink: '/posts2/:title/'
 header:
   title: Fjord
   tagline: Minimal and clean blog theme
