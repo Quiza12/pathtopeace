@@ -328,6 +328,23 @@ models:
         name: menus
         label: Home Menus
         description: Which menus should this page show up in
+  blog2:
+    type: page
+    label: Blog
+    template: blog2
+    file: blog.md
+    hideContent: true
+    singleInstance: true
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the page.
+        required: true
+      - type: page_menus
+        name: menus
+        label: Home Menus
+        description: Which menus should this page show up in
   contact:
     type: page
     label: Contact
@@ -359,6 +376,31 @@ models:
     label: Page
     template: page
     exclude: _posts/**
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the page.
+        required: true
+      - type: string
+        name: subtitle
+        label: Subtitle
+        description: The text shown just below the page title.
+      - type: image
+        name: img_path
+        label: Image
+        description: >-
+          The image shown on the left side. If no image added, the default image
+          specified in Header Configuration is displayed.
+      - type: page_menus
+        name: menus
+        label: Page Menus
+        description: Which menus should this page show up in
+  page2:
+    type: page
+    label: Page
+    template: page2
+    exclude: _posts2/**
     fields:
       - type: string
         name: title
