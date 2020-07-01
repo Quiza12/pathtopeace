@@ -20,6 +20,13 @@ I highly recommend watching these in full (if you can!)
 
 Feel free to [contact me](mailto:lachlan.querzoli@gmail.com) if you’d like to be featured in an interview!
 
+# Finn's Interview #6
+## Full Interview
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g3iUZfN6Ddw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Finn's Highlights #6
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XG4KHwoY5Jc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Ella's Interview #5
 ## Full Interview
 In this interview, Ella speaks on the evolution of her anxiety at its core, and how it lead to bulimia and depression. Over time, she has found comfort in friendship, cheerleading and focusing on things on a day to day basis.
