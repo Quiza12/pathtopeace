@@ -20,6 +20,30 @@ I highly recommend watching these in full (if you can!)
 
 Feel free to [contact me](mailto:lachlan.querzoli@gmail.com) if you’d like to be featured in an interview!
 
+# Jacob's Interview #9
+## Full Interview
+In this interview, Jacob expresses his arduous experience with depression, anxiety and grief. To combat these issues, Jacob has instilled a positive mindset incorporating better behaviour control, music, sports, time with understanding friends and a killer ‘live-in-the-moment’ attitude. He is moving forward with better vision, confidence and strength.
+Out on 19th July at 6pm!
+
+### Jacob's Highlights
+Out on 19th July at 6:30pm!
+
+# Jake's Interview #8
+## Full Interiew
+In this interview, Jake speaks on his father's cancer diagnosis, how this lead to developing depression and his anxiety, and the lengths of time/heartache it took for him to be comfortable with opening up about it. Since doing so, Jake has been moving forward with great stride- being open with everyone around him including himself, and focusing on engaging in healthy activities that fuel him!
+Out on 12th July at 6pm!
+
+### Jake's Highlights
+Out on 19th July at 6:30pm!
+
+# Tim's Interview #7
+## Full Interview
+In this interview, Tim explains his extreme anxiety, and how it has isolated him for the past couple of years. He has seen a gradual progression towards improvement recently, and hopes to continue/grow on this- working day by day.
+Out on 5th July at 6pm!
+
+### Tim's Highlights
+Out on 5th July at 6:30pm!
+
 # Finn's Interview #6
 ## Full Interview
 In this interview, Finn speaks on his depersonalisation and disassociation, a condition within anxiety which has lead to patterns of depression. Finn has found strength in spending time with friends, gym training, positive affirmations, AFL and much more.
