@@ -75,6 +75,13 @@ Personally, I quickly did this one before work. I was ready around 10 minutes ea
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4pKly2JojMw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Progressive Muscle Relaxation
+1. Lie comfortably on the floor.
+2. Take a few deep breaths to relax.
+3. Breathe in. Tense the muscles of your feet.
+4. Breathe out. Release the tension in your feet. 
+5. Breathe in. Tense your calf muscles.
+6. Breathe out. Release the tension in your calves.
+7. Work your way up your body. Tense each muscle group. This includes your legs, belly, chest, fingers, arms, shoulders, neck, and face.
 
 ## Diaphragmic Breathing Technique
 
