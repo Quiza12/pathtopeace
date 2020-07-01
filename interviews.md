@@ -10,7 +10,7 @@ layout: page
 
 I sit down with someone to discuss their mental health.
 
-The aim is to establish the issues, and providing, in reflection:
+The aim is to establish the issues and providing, in reflection:
 
 + Advice
 + Revelations
@@ -23,10 +23,10 @@ Feel free to [contact me](mailto:lachlan.querzoli@gmail.com) if you’d like to 
 # Jacob's Interview #9
 ## Full Interview
 In this interview, Jacob expresses his arduous experience with depression, anxiety and grief. To combat these issues, Jacob has instilled a positive mindset incorporating better behaviour control, music, sports, time with understanding friends and a killer ‘live-in-the-moment’ attitude. He is moving forward with better vision, confidence and strength.
-Out on 19th July at 6pm!
++ Out on 19th July at 6pm!
 
 ### Jacob's Highlights
-Out on 19th July at 6:30pm!
++ Out on 19th July at 6:30pm!
 
 # Jake's Interview #8
 ## Full Interiew
@@ -34,15 +34,15 @@ In this interview, Jake speaks on his father's cancer diagnosis, how this lead t
 Out on 12th July at 6pm!
 
 ### Jake's Highlights
-Out on 19th July at 6:30pm!
++ Out on 19th July at 6:30pm!
 
 # Tim's Interview #7
 ## Full Interview
 In this interview, Tim explains his extreme anxiety, and how it has isolated him for the past couple of years. He has seen a gradual progression towards improvement recently, and hopes to continue/grow on this- working day by day.
-Out on 5th July at 6pm!
++ Out on 5th July at 6pm!
 
 ### Tim's Highlights
-Out on 5th July at 6:30pm!
++ Out on 5th July at 6:30pm!
 
 # Finn's Interview #6
 ## Full Interview
