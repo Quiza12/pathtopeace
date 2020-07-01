@@ -15,9 +15,6 @@ These are great for awkward, inconvenient amounts of time that arise due to unpr
 Citing from personal experience, these have all had an extremely positive impact on my mental health, as I said before, granting a 'little win' as I continue with the day. These have improved my mood, focus and productivity.
 
 
-# Evie's Exercises
-
-
 # 5 minute Activities
 ## Easy 5 minute workout
 
@@ -84,4 +81,9 @@ Personally, I quickly did this one before work. I was ready around 10 minutes ea
 
 # 30 minute Activities
 
+
 # 1 hour Activities
+
+
+# Evie's Exercises
+
