@@ -96,8 +96,9 @@ Personally, I quickly did this one before work. I was ready around 10 minutes ea
 6. Breathe out. Release the tension in your calves.
 7. Work your way up your body. Tense each muscle group. This includes your legs, belly, chest, fingers, arms, shoulders, neck, and face.
 
-## Diaphragmic Breathing Technique
-(diagram)
+## 
+## ![Diaphragmic Breathing Technique](/diaphragmic breathing exercise.png)
+
 
 ## Read a chapter
 + Current book
