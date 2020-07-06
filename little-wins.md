@@ -71,7 +71,7 @@ A simple walk around the block can do absolute wonders! Whether it be around the
 
 ## Yoga
 10 minute yoga class
-Personally, I quickly did this one before work. I was ready around 10 minutes earlier than usual, so I grabbed my yoga mat (can be done on carpet if need be) and got into it. I felt instantly energised, and full of life. I got to work on time, and felt 100% ready to attack the day ahead of me.
+Personally, I quickly did this one before work. I was ready around 10 minutes earlier than usual, so I grabbed my yoga mat (can be done on carpet if need be) and got into it. I felt instantly energised, and full of life. I got to work on time, and felt 100% ready to attack the workload ahead of me.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4pKly2JojMw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Progressive Muscle Relaxation
@@ -84,7 +84,29 @@ Personally, I quickly did this one before work. I was ready around 10 minutes ea
 7. Work your way up your body. Tense each muscle group. This includes your legs, belly, chest, fingers, arms, shoulders, neck, and face.
 
 ## Diaphragmic Breathing Technique
+(diagram)
 
+## Read a chapter
++ Current book
++ If not an avid reader, try the newspaper or any other magazines you are subscribed to
++ It’s always great to refresh your mind with some info!
++ Reading has various benefits, especially geared towards mental health and body improvement
++ https://www.healthline.com/health/benefits-of-reading-books#prevents-cognitive-decline - (complemented by proven research and testing)
+  + Strengthens the brain.
+  + Increases capacity for empathy
+  + Builds vocabulary
+  + Prevents cognitive decline
+  + Reduces stress
+  + Aids sleep
+  + Alleviates depression
+  + Lengthens lifespan
+
+## Brain Puzzles (newspaper or online)
++ Exposing the brain to a lower-pressure challenge every now and then can help prepare a person for the higher-pressure challenges in life
++ Solving these puzzles and quizzes grants you a little win for the day, which is what we’re all about at Path to Peace!
++ Sporcle (everything): https://www.sporcle.com/
++ Sudoku: https://sudoku.com/
++ Crosswords: https://thenewdaily.com.au/puzzles/quiz-crossword/
 
 # 30 minute Activities
 
