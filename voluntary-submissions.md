@@ -82,3 +82,50 @@ At the age of 18 I began showing symptoms of Bulimia Nervosa. These symptoms inc
 
 ### When it got better
 One day my closest friend caught me in an act of self-induced vomiting and decided to take me to the doctors. There we discovered I was underweight. It was that day I discovered how serious my behaviours were and the importance to make a change. I was fortunate to have my friend’s support and efforts in helping me to attain a healthy weight and diet. I hadn’t known that my behaviours were not just a lifestyle choice but a mental illness. Today I try my hardest to avoid the negative side of social media that holds unrealistic body images and expectations. I carry out a healthy intake recommended by health care professionals. I believe I have overcome a major obstacle in my young adulthood and I am proud of myself to make a change for the better of my health.  
+
+
+# Alex M
+Alexandra Millington has shared some helpful notes on stress and stress management. Alex is in her first year of studying psychology at the University of Wollongong. She’s not a professional, so if you feel that you need extra help please reach out to a doctor or counsellor.
+
+## STRESS
+
+### What is Stress?
+Stress is a type of response that we experience when there is a stressor (ie. something we perceive as a threat). Stress places feelings of tension and discomfort on us. These feelings can accumulate over time and cause tiredness and frustration if not dealt with properly.
+
+There are 4 types of stress:
++ Frustration
++ Conflict
++ Pressure
++ Change
+
+### Types of Responses to Stress
+Whenever a stressful event happens, our brain perceives a threat and enforces a response to try and deal with this.
+
+Responses may be one or more of the following:
++ Emotional: crying, depression, anxiety etc.
++ Physiological: natural ‘fight or flight’ response accompanied with increased heart rate, tensing of the body, and deep breathing. May feel like ‘butterflies in the stomach’
++ Behavioural: engaging in coping behaviours (which is beneficial in managing stress), or giving up on goals, striking out at others, and indulging oneself (which are not beneficial in managing stress)
+
+### Stress Management
+Learning how to manage stress is a key part of coping in day to day life. There are certainly many different ways you can manage stress, and this can be different for everyone.
++ Some may manage stress using humour, which increases positive emotions and allows us to shift our focus from feelings of helplessness to feelings of hope. It also allows us to connect with others who may be feeling similar types of stress. 
++ Releasing pent up emotions through exercise and expressive writing can also be helpful in decreasing the negative feelings that come along with cumulative stress.
++ Relaxation techniques such as controlled breathing, muscle relaxations, meditation, and listening to music can help decrease feelings of stress and encourage feelings of emotional calm.
++ Learning to change our perception of stressors can affect how we feel during stressful times. This involves repeatedly challenging negative thought patterns, which can be difficult without professional help. This type of stress management is common in psychological treatment.
+
+Social support can also prove to be a major factor in learning how to manage stress. By having explicit conversations with friends, family, etc about your stress, you may be able to receive advice or comfort. Even when not explicitly talking about stress with friends and family, their presence can also provide feelings of comfort.
+
+### Coping
+The following are a few ways of coping that may assist in decreasing stress or dealing with the problem at hand.
+
++ Problem focused coping: emphasises practical ways of dealing with the problem eg. increase time management for stress surrounding assignments
++ Emotion focused coping: attempts to reduce the negative emotions associated with stress eg. self care
+
+### Positive Effects of Stress
+BUT stress isn’t all bad! Stress helps us build resilience, which promotes personal growth and self improvement. We are forced to learn new skills, reevaluate our priorities, and strengthen as a person. Our experiences of stress improve our coping abilities, allowing us to face future stressors with more confidence. 
+
+Despite the sometimes helpful nature of stress, it is only beneficial up until a point. If you feel that stress is impairing your mental health, relationships, or performance at school or work - seek professional help.
+
+https://www.pathtopeace.me/other-services/
+
+
