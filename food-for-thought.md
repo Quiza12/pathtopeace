@@ -12,9 +12,7 @@ Food For Thought are small, miscellaneous pieces of information I like to produc
 
 As the saying goes, they are simply ‘food for thought’ as you get on with your day.
 
-As stated before, very miscellanous. Short and long, to the point and broad, raw and easy to consume. Designed to incite positive, forward-thinking and healthy action for yourself and those in your community.
-
-Think of them as little things to remember on your path; small reminders to keep you on your path.
+Short or long, direct or broad, raw or easy to consume. Designed to incite positive, forward-thinking and healthy action for yourself and those in your community. Think of them as little things to remember in your life; small reminders to keep you on the right path.
 
 # "Ryan" - Food For thought #1
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G-iax7JNloA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
