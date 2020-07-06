@@ -138,22 +138,22 @@ Personally, I quickly did this one before work. I was ready around 10 minutes ea
 + Personally: I enjoyed both these classes, with the ‘Slow Flow’ session being my favourite as it sparked something in me despite me feeling very tired before the session. These sessions really opened up my entire body, and especially my hips. Like the other classes, it unlocked a newfound energy for me to incorporate a healthy breakfast and a morning walk- all into a highly productive day!
 
 ## Walk
-+ As mentioned inthe 10 minute activities, a simple walk can do wonders
++ As mentioned in the 10 minute activities, a simple walk can do wonders
 + With 30 minutes on your side, this allows for a longer walk to really stretch those legs and allow more stress alleviation
 + You can even jump in your car and drive to a local park with (or without) your pet to really give you some space and freedom
 
 ## Exercise/Workout
-+ Have a look at some of Evie’s Exercises! These can help make up the 30 minute time span you have. Easy to do, home workouts, no membership needed!
++ Have a look at some of Evie’s Exercises! These can help make up the 30 minute time span you have. Easy-to-organise home workouts, no membership needed!
 + Here are the general examples
-  + Run
-  + Swim
+  + Running
+  + Swimming
   + Organised sport
   + Gym
   + Walking/Power walking 
   + Biking
   + Home workouts
 + Experiment with these as well- try some variations of say, a Run-Swim combo, Home workout-Gym, etc.
-+ You can even invest in a bike (if without one already) and try implementing into your daily routine (bike to work, bike to train station, bike to gym)
++ You can even invest in a bike (if without one already) and try implementing it into your daily routine (bike to work, bike to train station, bike to gym)
 + Get creative, but understand your limits
 
 
