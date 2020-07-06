@@ -16,6 +16,12 @@ Citing from personal experience, these have all had an extremely positive impact
 
 
 # 5 minute Activities
++ Workout 
++ Breathing Techniques 
++ Yoga sequence 
++ Music/Jam session 
++ Refresh lists 
+
 ## Easy 5 minute workout
 
 + Extra time: plank time
@@ -66,6 +72,13 @@ An easy session for all levels! I quickly did this routine just before going for
 
 
 # 10 minute Activities
++ Walk
++ Yoga
++ Progressive muscle relaxation
++ Diaphragmatic breathing techniques
++ Read a chapter
++ Brain puzzles 
+
 ## Walk
 A simple walk around the block can do absolute wonders! Whether it be around the block from where you work, or your house,  or on the moon- it doesn’t matter. Everyone can benefit from a nice, easy walk for around 10 minutes to inhale some fresh air, and calm the body when it tenses due to built-up stress and anxiety.
 
@@ -109,6 +122,39 @@ Personally, I quickly did this one before work. I was ready around 10 minutes ea
 + Crosswords: https://thenewdaily.com.au/puzzles/quiz-crossword/
 
 # 30 minute Activities
++ Yoga
++ Walk
++ Exercise/Workout
++ 
++ 
+
+## Yoga
++ Working on opening all areas of the body
++ Personally: I personally enjoyed this class. It was very challenging at times, but the class was all about easing into the stretch. Starting slow, and building until you reach your maximum point. I felt great relief afterwards, 100% woken up with a burst of energy and more mobility in my legs and hips.
+### Full Body Flexibility Yoga
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1UlikY_YN5o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Vinyasa Slow Flow Yoga Stretch
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3fSIO3sogjA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
++ Personally: I enjoyed both these classes, with the ‘Slow Flow’ session being my favourite as it sparked something in me despite me feeling very tired before the session. These sessions really opened up my entire body, and especially my hips. Like the other classes, it unlocked a newfound energy for me to incorporate a healthy breakfast and a morning walk- all into a highly productive day!
+
+## Walk
++ As mentioned inthe 10 minute activities, a simple walk can do wonders
++ With 30 minutes on your side, this allows for a longer walk to really stretch those legs and allow more stress alleviation
++ You can even jump in your car and drive to a local park with (or without) your pet to really give you some space and freedom
+
+## Exercise/Workout
++ Have a look at some of Evie’s Exercises! These can help make up the 30 minute time span you have. Easy to do, home workouts, no membership needed!
++ Here are the general examples
+  + Run
+  + Swim
+  + Organised sport
+  + Gym
+  + Walking/Power walking 
+  + Biking
+  + Home workouts
++ Experiment with these as well- try some variations of say, a Run-Swim combo, Home workout-Gym, etc.
++ You can even invest in a bike (if without one already) and try implementing into your daily routine (bike to work, bike to train station, bike to gym)
++ Get creative, but understand your limits
 
 
 # 1 hour Activities
