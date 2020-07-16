@@ -97,7 +97,7 @@ Personally, I quickly did this one before work. I was ready around 10 minutes ea
 5. Breathe in. Tense your calf muscles.
 6. Breathe out. Release the tension in your calves.
 7. Work your way up your body. Tense each muscle group. This includes your legs, belly, chest, fingers, arms, shoulders, neck, and face.
-https://www.webmd.com/balance/stress-management/stress-relief-breathing-techniques#2
+
 
 ## Diaphragmic Breathing Technique
 ![Diaphragmic Breathing Technique](/diaphragmic_breathing_exercise.png)
