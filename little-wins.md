@@ -28,7 +28,7 @@ Little Wins can range from activities of
 + Refresh lists 
 
 ## Easy 5 minute workout
-
+(insert table here)
 + Extra time: plank time
 + Afterwards
   + Hydration
@@ -45,8 +45,6 @@ A simple breathing technique to easily practice.
   * Object/s
   * The wall
   * The ceiling
-
-
 ### Positive Affirmations
 * “I will be okay!”
 * “I am right in this moment!”
@@ -54,7 +52,6 @@ A simple breathing technique to easily practice.
 * “I will love!”
 * “One day at a time!”
 * “I trust in the universe!”
-
 
 ## Yoga Session
 An easy session for all levels! I quickly did this routine just before going for a run and it was great in opening up my body and bringing some warmth to my legs
@@ -74,6 +71,7 @@ An easy session for all levels! I quickly did this routine just before going for
   + Everything you have to look forward to
   + Everything you’re grateful for- think outside what’s obvious
 + Pictures of examples*
+
 
 
 # 10 minute Activities
@@ -104,7 +102,6 @@ Personally, I quickly did this one before work. I was ready around 10 minutes ea
 ## Diaphragmic Breathing Technique
 ![Diaphragmic Breathing Technique](/diaphragmic_breathing_exercise.png)
 
-
 ## Read a chapter
 + Current book
 + If not an avid reader, try the newspaper or any other magazines you are subscribed to
@@ -127,12 +124,13 @@ Personally, I quickly did this one before work. I was ready around 10 minutes ea
 + Sudoku: https://sudoku.com/
 + Crosswords: https://thenewdaily.com.au/puzzles/quiz-crossword/
 
+
+
 # 30 minute Activities
 + Yoga
 + Walk
 + Exercise/Workout
-+ 
-+ 
++ TED Talks
 
 ## Yoga
 + Working on opening all areas of the body
@@ -162,6 +160,17 @@ Personally, I quickly did this one before work. I was ready around 10 minutes ea
 + You can even invest in a bike (if without one already) and try implementing it into your daily routine (bike to work, bike to train station, bike to gym)
 + Get creative, but understand your limits
 
+## TED Talks
+Learn something new!TED is consistently posting content that is designed to empower you to be the absolute best you can be
+https://www.youtube.com/c/TED/videos
+
+#### A couple I recommend
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ieXB-BGxYwg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WWloIAQpMcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3dqXHHCc5lA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SEaFHPvuE6Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 # 1 hour Activities
 + Yoga
@@ -173,14 +182,9 @@ A 1 hour yoga session with a mix of of Vinyasa Yoga and Vin Yoga. Personally: I 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-t_P1alyGz4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## TED Talks
-Learn something new! TED is consistently posting content that is designed to empower you to be the absolute best you can be
+Learn something new! TED is consistently posting content that is designed to empower you to be the absolute best you can be.
+With an hour of free time, you can get through 2-4! Empower!
 https://www.youtube.com/c/TED/videos
-
-#### A couple I recommend
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ieXB-BGxYwg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WWloIAQpMcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3dqXHHCc5lA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SEaFHPvuE6Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Social Time
 It’s always healthy to catch up with a friend to keep in touch. Go for coffee, a walk, a meal, a drive, whatever! Everyone has busy schedules, but there is always time for time with friends
