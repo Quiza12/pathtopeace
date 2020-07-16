@@ -14,6 +14,11 @@ These are great for awkward, inconvenient amounts of time that arise due to unpr
 
 Citing from personal experience, these have all had an extremely positive impact on my mental health, as I said before, granting a 'little win' as I continue with the day. These have improved my mood, focus and productivity.
 
+Little Wins can range from activities of
++ 5 minutes
++ 10 minutes
++ 30 minutes
++ 1 hour
 
 # 5 minute Activities
 + Workout 
@@ -96,8 +101,8 @@ Personally, I quickly did this one before work. I was ready around 10 minutes ea
 6. Breathe out. Release the tension in your calves.
 7. Work your way up your body. Tense each muscle group. This includes your legs, belly, chest, fingers, arms, shoulders, neck, and face.
 
-## 
-## ![Diaphragmic Breathing Technique](/diaphragmic_breathing_exercise.png)
+## Diaphragmic Breathing Technique
+![Diaphragmic Breathing Technique](/diaphragmic_breathing_exercise.png)
 
 
 ## Read a chapter
@@ -180,8 +185,3 @@ https://www.youtube.com/c/TED/videos
 ## Social Time
 It’s always healthy to catch up with a friend to keep in touch. Go for coffee, a walk, a meal, a drive, whatever! Everyone has busy schedules, but there is always time for time with friends
 + Reach out to me ! I am more than happy to make time for anyone who just needs a friend- lachlan.querzoli@gmail.com
-
-
-
-
-
