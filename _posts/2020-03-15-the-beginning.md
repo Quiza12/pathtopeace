@@ -1,5 +1,5 @@
 ---
-title: Month 2 - Breathing Techniques
+title: Month 2 
 excerpt: >-
   An excerpt.
 date: '2020-03-15'
@@ -10,4 +10,3 @@ layout: post
 
 ![The Beginning](/images/post1_1.jpeg)
 
-# 'Just Breathe'
