@@ -34,7 +34,7 @@ Little Wins can range from activities of
   + Hydration
   + Food: nuts, fruit, muesli bar
 
-### Breathing technique: 4-4-6 or Lachie’s technique
+### Breathing technique: 4-4-6 or Lachie’s Technique
 A simple breathing technique to easily practice.
 * Standing up straight/lying down on your back- arms spread
 * Inhale for roughly 4 seconds
