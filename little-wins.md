@@ -159,7 +159,29 @@ Personally, I quickly did this one before work. I was ready around 10 minutes ea
 
 
 # 1 hour Activities
++ Yoga
++ TED Talks
++ Social Time
+
+## Yoga
+A 1 hour yoga session with a mix of of Vinyasa Yoga and Vin Yoga. Personally: I personally really enjoyed this class. I liked how the first half (Yinyasa) was active, challenging and full of rapid routines, while the second part (Yin) was focused on long stretching, breathing and focus. This allowed a gradual ease into a stretch, inducing an open feel afterwards.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-t_P1alyGz4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## TED Talks
+Learn something new! TED is consistently posting content that is designed to empower you to be the absolute best you can be
+https://www.youtube.com/c/TED/videos
+
+#### A couple I recommend
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ieXB-BGxYwg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WWloIAQpMcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3dqXHHCc5lA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SEaFHPvuE6Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Social Time
+It’s always healthy to catch up with a friend to keep in touch. Go for coffee, a walk, a meal, a drive, whatever! Everyone has busy schedules, but there is always time for time with friends
++ Reach out to me ! I am more than happy to make time for anyone who just needs a friend- lachlan.querzoli@gmail.com
 
 
-# Evie's Exercises
+
+
 
