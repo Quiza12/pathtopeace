@@ -14,4 +14,4 @@ I am a 19 year old from Sydney, Australia. I am currently studying Primary Teach
 
 *“If you want to go fast, go alone. If you want to go far, go together.”*
 
-images/post1_1.jpeg
+
