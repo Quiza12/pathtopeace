@@ -28,7 +28,7 @@ Little Wins can range from activities of
 + Refresh lists 
 
 ## Easy 5 minute workout
-thumb_img_path: images/5_minute_workout.png
+(insert table here)
 + Extra time: plank time
 + Afterwards
   + Hydration
@@ -63,7 +63,6 @@ An easy session for all levels! I quickly did this routine just before going for
   + Favourites, ones you love to dance/sing to
 + Allow an open area
 + Let loose! Have fun!
-+ Video example*
 
 ## Re-fresh lists
 + List/mindmaps
@@ -71,7 +70,6 @@ An easy session for all levels! I quickly did this routine just before going for
   + List of what to do for the rest of the day, or even week if things are in control
   + Everything you have to look forward to
   + Everything you’re grateful for- think outside what’s obvious
-+ Pictures of examples*
 
 
 
