@@ -28,7 +28,7 @@ Little Wins can range from activities of
 + Refresh lists 
 
 ## Easy 5 minute workout
-(insert table here)
+thumb_img_path: images/5_minute_workout.png
 + Extra time: plank time
 + Afterwards
   + Hydration
@@ -45,6 +45,7 @@ A simple breathing technique to easily practice.
   * Object/s
   * The wall
   * The ceiling
+
 ### Positive Affirmations
 * “I will be okay!”
 * “I am right in this moment!”
