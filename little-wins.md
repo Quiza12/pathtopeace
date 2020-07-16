@@ -15,17 +15,19 @@ These are great for awkward, inconvenient amounts of time that arise due to unpr
 Citing from personal experience, these have all had an extremely positive impact on my mental health, as I said before, granting a 'little win' as I continue with the day. These have improved my mood, focus and productivity.
 
 Little Wins can range from activities of
-+ 5 minutes
-+ 10 minutes
-+ 30 minutes
-+ 1 hour
++ <a href="#fiveMinutes">5 minutes</a>
++ <a href="#tenMinutes">10 minutes</a>
++ <a href="#thirtyMinutes">30 minutes</a>
++ <a href="#oneHour">1 hour</a>
 
+
+<p id="fiveMinutes"></p>
 # 5 minute Activities
-+ Workout 
++ Workout
 + Breathing Technique- Lachie's Technique
-+ Yoga sequence 
-+ Music/Jam session 
-+ Refresh lists 
++ Yoga sequence
++ Music/Jam session
++ Refresh lists
 
 ### 5 minute workout
 (insert table here)
@@ -72,14 +74,14 @@ An easy session for all levels! I quickly did this routine just before going for
   + Everything you’re grateful for- think outside what’s obvious
 
 
-
+<p id="tenMinutes"></p>
 # 10 minute Activities
 + Walk
 + Yoga
 + Progressive muscle relaxation
 + Diaphragmatic breathing techniques
 + Read a chapter
-+ Brain puzzles 
++ Brain puzzles
 
 ### Walk
 A simple walk around the block can do absolute wonders! Whether it be around the block from where you work, or your house,  or on the moon- it doesn’t matter. Everyone can benefit from a nice, easy walk for around 10 minutes to inhale some fresh air, and calm the body when it tenses due to built-up stress and anxiety.
@@ -93,7 +95,7 @@ Personally, I quickly did this one before work. I was ready around 10 minutes ea
 1. Lie comfortably on the floor.
 2. Take a few deep breaths to relax.
 3. Breathe in. Tense the muscles of your feet.
-4. Breathe out. Release the tension in your feet. 
+4. Breathe out. Release the tension in your feet.
 5. Breathe in. Tense your calf muscles.
 6. Breathe out. Release the tension in your calves.
 7. Work your way up your body. Tense each muscle group. This includes your legs, belly, chest, fingers, arms, shoulders, neck, and face.
@@ -125,7 +127,7 @@ Personally, I quickly did this one before work. I was ready around 10 minutes ea
 + Crosswords: https://thenewdaily.com.au/puzzles/quiz-crossword/
 
 
-
+<p id="thirtyMinutes"></p>
 # 30 minute Activities
 + Yoga
 + Walk
@@ -153,7 +155,7 @@ Personally, I quickly did this one before work. I was ready around 10 minutes ea
   + Swimming
   + Organised sport
   + Gym
-  + Walking/Power walking 
+  + Walking/Power walking
   + Biking
   + Home workouts
 + Experiment with these as well- try some variations of say, a Run-Swim combo, Home workout-Gym, etc.
@@ -172,7 +174,7 @@ https://www.youtube.com/c/TED/videos
 
 
 
-
+<p id="oneHour"></p>
 # 1 hour Activities
 + Yoga
 + TED Talks
