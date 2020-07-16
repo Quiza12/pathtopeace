@@ -14,7 +14,7 @@ The idea is to create an atmosphere which encourages a free, joyous feeling, inc
 
 Accepting instrumentals as well! 
 
-Feel free to send in any recommendations to add to the playlist. All about the good vibes and happy thoughts! 
-lachlan.querzoli@gmail.com
+Feel free to [send in any recommendations](mailto:lachlan.querzoli@gmail.com) to add to the playlist. All about the good vibes and happy thoughts! 
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL-AaaRr6J9YomHlGgpAB4Mz1qlq5ciJko" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

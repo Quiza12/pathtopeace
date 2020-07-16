@@ -11,7 +11,7 @@ category: interviews-blog
 
 I sit down with someone to discuss their mental health.
 
-The aim is to establish the issues, and providing, in reflection:
+The aim is to establish the issues and providing, in reflection:
 
 + Advice
 + Revelations
