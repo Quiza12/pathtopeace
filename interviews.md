@@ -34,7 +34,6 @@ In this interview, Jake speaks on his father's cancer diagnosis, how this lead t
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NqhK0HwCrds" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Jake's Highlights
-+ Out on 12th July at 6:30pm!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nIFAUy5jFBA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Tim's Interview #7
