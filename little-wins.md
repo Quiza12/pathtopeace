@@ -27,7 +27,7 @@ Little Wins can range from activities of
 + Music/Jam session 
 + Refresh lists 
 
-## Easy 5 minute workout
+## 5 minute workout
 (insert table here)
 + Extra time: plank time
 + Afterwards
@@ -118,7 +118,7 @@ Personally, I quickly did this one before work. I was ready around 10 minutes ea
   + Lengthens lifespan
 
 ## Brain Puzzles (newspaper or online)
-+ Exposing the brain to a lower-pressure challenge every now and then can help prepare a person for the higher-pressure challenges in life
++ Exposing the brain to a light-pressured challenge every now and then can help prepare a person for the heavy-pressure challenges in life
 + Solving these puzzles and quizzes grants you a little win for the day, which is what we’re all about at Path to Peace!
 + Sporcle (everything): https://www.sporcle.com/
 + Sudoku: https://sudoku.com/
