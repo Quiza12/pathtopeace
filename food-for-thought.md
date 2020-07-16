@@ -17,5 +17,4 @@ Short or long, direct or broad, raw or easy to consume. They are designed to inc
 # "Ryan" - Food For thought #1
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G-iax7JNloA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# "Walk 1" - Food For Thought #2
 
