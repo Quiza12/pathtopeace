@@ -22,7 +22,7 @@ Little Wins can range from activities of
 
 # 5 minute Activities
 + Workout 
-+ Breathing Techniques 
++ Breathing Technique- Lachie's Technique
 + Yoga sequence 
 + Music/Jam session 
 + Refresh lists 
