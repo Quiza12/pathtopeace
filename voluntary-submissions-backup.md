@@ -1,12 +1,11 @@
 ---
-title: Voluntary Submissions
+title: Voluntary Submissions Backup
 img_path: images/header-bg-ripples.jpg
 menus:
   main:
-    weight: 5
-    title: Voluntary Submissions
-layout: voluntary-submissions-blog
-category: voluntary-submissions-blog
+    weight: 10
+    title: Voluntary Submissions Backup
+layout: page
 ---
 
 This is where *YOU* can come in! I am accepting all submissions that are sent in as long as they are appropriate for empowering others. These can range from:
