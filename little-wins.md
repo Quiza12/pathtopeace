@@ -46,7 +46,7 @@ A simple breathing technique to easily practice.
   * The wall
   * The ceiling
 
-### Positive Affirmations
+### Positive Affirmations- to recite
 * “I will be okay!”
 * “I am right in this moment!”
 * “I am strong!”
