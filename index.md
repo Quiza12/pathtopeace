@@ -8,7 +8,7 @@ menus:
 layout: page
 ---
 
-Path to Peace is a non-for profit mission for mental health. Our ‘For the People, by the People’ approach is designed to appeal to all who are struggling with their mental health.
+Path to Peace is a non-for-profit mission for mental health. Our ‘For the People, by the People’ approach is designed to appeal to all who are struggling with their mental health.
 
 One word: Empower. We strive to empower YOU with the skills, strategies and knowledge to overcome your struggles and work for a life you love. Path to Peace provides:
 
