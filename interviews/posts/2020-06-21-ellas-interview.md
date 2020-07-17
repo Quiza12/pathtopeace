@@ -3,7 +3,7 @@ title: Ella's Interview
 excerpt: >-
   In this interview, Ella speaks on the evolution of her anxiety at its core, and how it lead to bulimia and depression.
 date: '2020-06-21'
-thumb_img_path: interviews/images/1.jpg
+thumb_img_path: interviews/images/ella-interview.png
 content_img_path: images/header-bg-ripples.jpg
 layout: post
 category: interviews-blog
