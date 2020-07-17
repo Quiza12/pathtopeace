@@ -2,8 +2,8 @@
 title: Ariana's Interview
 excerpt: >-
   In this interview, Ariana discusses the impact that Insomnia, Depression, Co-morbid Anxiety and ADHD has had on her life for the past couple years.
-date: '2020-06-13'
-thumb_img_path: interviews/images/1.jpg
+date: '2020-06-14'
+thumb_img_path: interviews/images/ariana-interview.png
 content_img_path: images/header-bg-ripples.jpg
 layout: post
 category: interviews-blog
