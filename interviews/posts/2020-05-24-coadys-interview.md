@@ -2,8 +2,8 @@
 title: Coady's Interview
 excerpt: >-
   In this interview, Coady speaks on her anorexia nervosa, anxiety and depression.
-date: '2020-05-24'
-thumb_img_path: interviews/images/1.jpg
+date: '2020-05-23'
+thumb_img_path: interviews/images/coady-interview.png
 content_img_path: images/header-bg-ripples.jpg
 layout: post
 category: interviews-blog
