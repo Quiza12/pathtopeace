@@ -2,8 +2,8 @@
 title: April's Interview
 excerpt: >-
   In this interview, April details her chaotic year of 2019, filled with financial, university and relationship problems.
-date: '2020-06-06'
-thumb_img_path: interviews/images/1.jpg
+date: '2020-06-07'
+thumb_img_path: interviews/images/april-interview.png
 content_img_path: images/header-bg-ripples.jpg
 layout: post
 category: interviews-blog
