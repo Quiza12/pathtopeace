@@ -2,8 +2,8 @@
 title: Finn's Interview
 excerpt: >-
   In this interview, Finn speaks on his anxiety and confusion surrounding his future.
-date: '2020-06-01'
-thumb_img_path: interviews/images/1.jpg
+date: '2020-05-031'
+thumb_img_path: interviews/images/finn-m-interview.png
 content_img_path: images/header-bg-ripples.jpg
 layout: post
 category: interviews-blog
