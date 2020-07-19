@@ -17,6 +17,6 @@ The aim is to establish the issues and providing, in reflection:
 + Revelations
 + Hope
 
-I highly recommend watching these in full (if you can!)
+I highly recommend watching these in full (if you can!). New interview every Sunday night!
 
 Feel free to [contact me](mailto:lachlan.querzoli@gmail.com) if you’d like to be featured in an interview!
