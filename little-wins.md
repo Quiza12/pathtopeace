@@ -101,8 +101,7 @@ Personally, I quickly did this one before work. I was ready around 10 minutes ea
 7. Work your way up your body. Tense each muscle group. This includes your legs, belly, chest, fingers, arms, shoulders, neck, and face.
 
 
-### Diaphragmic Breathing Technique
-![Diaphragmic Breathing Technique](images/diaphragmic_breathing_exercise.png)
+### ![Diaphragmic Breathing Technique](images/diaphragmic_breathing_exercise.png)
 
 ### Read a chapter
 + Current book
