@@ -109,7 +109,7 @@ Personally, I quickly did this one before work. I was ready around 10 minutes ea
 + If not an avid reader, try the newspaper or any other magazines you are subscribed to
 + It’s always great to refresh your mind with some info!
 + Reading has various benefits, especially geared towards mental health and body improvement
-+ https://www.healthline.com/health/benefits-of-reading-books#prevents-cognitive-decline - (complemented by proven research and testing)
++ + [Complemented by research and testing](https://www.healthline.com/health/benefits-of-reading-books#prevents-cognitive-decline)
   + Strengthens the brain.
   + Increases capacity for empathy
   + Builds vocabulary
