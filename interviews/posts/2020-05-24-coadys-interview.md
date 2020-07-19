@@ -9,7 +9,7 @@ layout: post
 category: interviews-blog
 ---
 
-# Coady's Interview \#1
+# Coady's Interview 
 
 ## Interview
 In this interview, Coady speaks on her anorexia nervosa, anxiety and depression. She found rehabilitation at a private hospital, and is moving forward in great stride with a variety of plans and strategies, along with the support of her friends to regain control of her and mind and body.
