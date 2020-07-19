@@ -2,7 +2,7 @@
 title: Tim's Interview
 excerpt: >-
   In this interview, Tim explains his extreme anxiety, and how it has isolated him for the past couple of years.
-date: '2020-06-28'
+date: '2020-07-05'
 thumb_img_path: interviews/images/tim-interview.png
 content_img_path: images/header-bg-ripples.jpg
 layout: post
