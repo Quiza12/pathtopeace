@@ -9,7 +9,7 @@ layout: post
 category: interviews-blog
 ---
 
-# Finn's Interview \#2
+# Finn's Interview 
 
 ## Interview
 In this interview, Finn speaks on his anxiety and confusion surrounding his future. He found reassurance in family, friends, and others who felt the same way and he is moving forward with a healthy schedule for a healthy future.
