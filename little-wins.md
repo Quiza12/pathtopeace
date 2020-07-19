@@ -150,7 +150,7 @@ Personally, I quickly did this one before work. I was ready around 10 minutes ea
 + You can even jump in your car and drive to a local park with (or without) your pet to really give you some space and freedom
 
 ### Exercise/Workout
-+ Have a look at some of Evie’s Exercises!* (*Coming soon!)These can help make up the 30 minute time span you have. Easy-to-organise home workouts, no membership needed!
++ Have a look at some of Evie’s Exercises!* (*Coming soon!) These can help make up the 30 minute time span you have. Easy-to-organise home workouts, no membership needed!
 + Here are the general examples
   + Running
   + Swimming
@@ -164,8 +164,8 @@ Personally, I quickly did this one before work. I was ready around 10 minutes ea
 + Get creative, but understand your limits
 
 ### TED Talks
-Learn something new!TED is consistently posting content that is designed to empower you to be the absolute best you can be
-https://www.youtube.com/c/TED/videos
+Learn something new! TED is consistently posting content that is designed to empower you to be the absolute best you can be
++ [Watch TED](https://www.youtube.com/c/TED/videos)
 
 #### A couple I recommend
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ieXB-BGxYwg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
