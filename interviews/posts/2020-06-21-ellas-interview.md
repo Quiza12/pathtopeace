@@ -11,9 +11,9 @@ category: interviews-blog
 
 # Ella's Interview 
 
-## Full Interview
+## Interview
 In this interview, Ella speaks on the evolution of her anxiety at its core, and how it lead to bulimia and depression. Over time, she has found comfort in friendship, cheerleading and focusing on things on a day to day basis.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s8nRIcRo-i8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Ella's Highlights
+### Highlights
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f-ymO7lLKzI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
