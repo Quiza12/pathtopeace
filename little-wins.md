@@ -137,6 +137,7 @@ Personally, I quickly did this one before work. I was ready around 10 minutes ea
 ### Yoga
 + Working on opening all areas of the body
 + Personally: I personally enjoyed this class. It was very challenging at times, but the class was all about easing into the stretch. Starting slow, and building until you reach your maximum point. I felt great relief afterwards, 100% woken up with a burst of energy and more mobility in my legs and hips.
+
 #### Full Body Flexibility Yoga
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1UlikY_YN5o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #### Vinyasa Slow Flow Yoga Stretch
