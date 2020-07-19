@@ -9,7 +9,7 @@ layout: post
 category: interviews-blog
 ---
 
-# Finn's Interview \#6
+# Finn's Interview 
 
 ## Full Interview
 In this interview, Finn speaks on his depersonalisation and disassociation, a condition within anxiety which has lead to patterns of depression. Finn has found strength in spending time with friends, gym training, positive affirmations, AFL and much more.
