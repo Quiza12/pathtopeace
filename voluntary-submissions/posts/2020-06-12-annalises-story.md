@@ -3,7 +3,7 @@ title: Annalise's Story
 excerpt: >-
   An excerpt.
 date: '2020-06-12'
-thumb_img_path: voluntary-submissions/images/1.jpg
+thumb_img_path: voluntary-submissions/images/vt-2.jpg
 content_img_path: images/header-bg-ripples.jpg
 layout: post
 category: voluntary-submissions-blog
