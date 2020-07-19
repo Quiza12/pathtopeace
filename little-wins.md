@@ -30,7 +30,7 @@ Little Wins can range from activities of
 + Refresh lists
 
 ### 5 minute workout
-(insert table here)
+![5 minute workout](/images/5_minute_workout.png)
 + Extra time: plank time
 + Afterwards
   + Hydration
