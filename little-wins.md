@@ -38,7 +38,7 @@ Little Wins can range from activities of
 
 ### Breathing technique: 4-4-6 or Lachie’s Technique
 A simple breathing technique to easily practice.
-* Standing up straight/lying down on your back- arms spread
+* Standing up straight or lying down on your back- arms spread
 * Inhale for roughly 4 seconds
 * Hold for 4 seconds
 * Exhale for 6 seconds
