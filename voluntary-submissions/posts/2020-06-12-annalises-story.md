@@ -1,7 +1,7 @@
 ---
 title: Annalise's Story
 excerpt: >-
-  An excerpt.
+  "It was that day I discovered how serious my behaviours were and the importance to make a change."
 date: '2020-06-12'
 thumb_img_path: voluntary-submissions/images/vt-2.jpg
 content_img_path: images/header-bg-ripples.jpg
