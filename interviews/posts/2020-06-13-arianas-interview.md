@@ -9,7 +9,7 @@ layout: post
 category: interviews-blog
 ---
 
-# Ariana's Interview \#4
+# Ariana's Interview 
 
 ## Full Interview  
 In this interview, Ariana discusses the impact that Insomnia, Depression, Co-morbid Anxiety and ADHD has had on her life for the past couple years. She has found relief and freedom in friendship, individuality, creativity, music and positive affirmations!
