@@ -91,7 +91,7 @@ A simple walk around the block can do absolute wonders! Whether it be around the
 Personally, I quickly did this one before work. I was ready around 10 minutes earlier than usual, so I grabbed my yoga mat (can be done on carpet if need be) and got into it. I felt instantly energised, and full of life. I got to work on time, and felt 100% ready to attack the workload ahead of me.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4pKly2JojMw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Progressive Muscle Relaxation
+### + [Progressive Muscle Relaxation](https://www.webmd.com/balance/stress-management/stress-relief-breathing-techniques#2)
 1. Lie comfortably on the floor.
 2. Take a few deep breaths to relax.
 3. Breathe in. Tense the muscles of your feet.
@@ -99,7 +99,7 @@ Personally, I quickly did this one before work. I was ready around 10 minutes ea
 5. Breathe in. Tense your calf muscles.
 6. Breathe out. Release the tension in your calves.
 7. Work your way up your body. Tense each muscle group. This includes your legs, belly, chest, fingers, arms, shoulders, neck, and face.
-
+![PMR Diagram](/images/progressive-muscle-relaxation.png)
 
 ### Diaphragmic Breathing Technique
 ![Diaphragmic Breathing Technique](/images/diaphragmic_breathing_exercise.png)
