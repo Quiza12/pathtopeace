@@ -79,7 +79,7 @@ An easy session for all levels! I quickly did this routine just before going for
 + Walk
 + Yoga
 + Progressive muscle relaxation
-+ Diaphragmatic breathing techniques
++ Diaphragmatic breathing technique
 + Read a chapter
 + Brain puzzles
 
