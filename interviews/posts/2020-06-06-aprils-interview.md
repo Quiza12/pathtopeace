@@ -9,7 +9,7 @@ layout: post
 category: interviews-blog
 ---
 
-# April's Interview \#3
+# April's Interview 
 
 ## Full Interview
 In this interview, April details her chaotic year of 2019, filled with financial, university and relationship problems. She sought clarity through her family, friends, and embracing the challenges head-on with a strong attitude.
