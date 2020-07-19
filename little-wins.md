@@ -66,7 +66,7 @@ An easy session for all levels! I quickly did this routine just before going for
 + Allow an open area
 + Let loose! Have fun!
 
-### Re-fresh lists
+### Refresh lists
 + List/mindmaps
 + Grab a pen and paper
   + List of what to do for the rest of the day, or even week if things are in control
