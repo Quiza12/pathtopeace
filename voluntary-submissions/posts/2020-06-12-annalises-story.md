@@ -9,8 +9,6 @@ layout: post
 category: voluntary-submissions-blog
 ---
 
-# Annalise's Story
-
 ### Introduction
 Throughout the decades body image remains to be an important priority for many young adults. This often leads to one keeping a healthy diet and practising daily exercises however in my case, I went far beyond average. In this blog I will take you through my journey of poor health behaviours and how I overcame body dissatisfaction and enhanced my self-esteem.
 
