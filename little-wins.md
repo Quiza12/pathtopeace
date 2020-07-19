@@ -150,7 +150,7 @@ Personally, I quickly did this one before work. I was ready around 10 minutes ea
 + You can even jump in your car and drive to a local park with (or without) your pet to really give you some space and freedom
 
 ### Exercise/Workout
-+ Have a look at some of Evie’s Exercises! These can help make up the 30 minute time span you have. Easy-to-organise home workouts, no membership needed!
++ Have a look at some of Evie’s Exercises!* (*Coming soon!)These can help make up the 30 minute time span you have. Easy-to-organise home workouts, no membership needed!
 + Here are the general examples
   + Running
   + Swimming
