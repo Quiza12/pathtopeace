@@ -102,7 +102,6 @@ Personally, I quickly did this one before work. I was ready around 10 minutes ea
 
 
 ### Diaphragmic Breathing Technique
-
 ![Diaphragmic Breathing Technique](images/diaphragmic_breathing_exercise.png)
 
 ### Read a chapter
