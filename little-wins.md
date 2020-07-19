@@ -122,9 +122,9 @@ Personally, I quickly did this one before work. I was ready around 10 minutes ea
 ### Brain Puzzles (newspaper or online)
 + Exposing the brain to a light-pressured challenge every now and then can help prepare a person for the heavy-pressure challenges in life
 + Solving these puzzles and quizzes grants you a little win for the day, which is what we’re all about at Path to Peace!
-+ Sporcle (everything): https://www.sporcle.com/
-+ Sudoku: https://sudoku.com/
-+ Crosswords: https://thenewdaily.com.au/puzzles/quiz-crossword/
++ + [Sporcle](https://www.sporcle.com/)
++ + [Sudoku](https://sudoku.com/)
++ + [Crosswords](https://thenewdaily.com.au/puzzles/quiz-crossword/)
 
 
 <p id="thirtyMinutes"></p>
@@ -187,8 +187,8 @@ A 1 hour yoga session with a mix of of Vinyasa Yoga and Vin Yoga. Personally: I 
 ### TED Talks
 Learn something new! TED is consistently posting content that is designed to empower you to be the absolute best you can be.
 With an hour of free time, you can get through 2-4! Empower!
-https://www.youtube.com/c/TED/videos
++ [Watch TED](https://www.youtube.com/c/TED/videos)
 
 ### Social Time
 It’s always healthy to catch up with a friend to keep in touch. Go for coffee, a walk, a meal, a drive, whatever! Everyone has busy schedules, but there is always time for time with friends
-+ Reach out to me ! I am more than happy to make time for anyone who just needs a friend- lachlan.querzoli@gmail.com
++ Reach out to me ! [I am more than happy to make time for anyone who just needs a friend](mailto:lachlan.querzoli@gmail.com)
