@@ -1,15 +1,13 @@
 ---
 title: Coady's Story
 excerpt: >-
-  "Eating disorders are MENTAL illnesses, and they need to be treated as such."=
+  "Eating disorders are MENTAL illnesses, and they need to be treated as such."
 date: '2020-05-24'
 thumb_img_path: voluntary-submissions/images/vt-1.jpg
 content_img_path: images/header-bg-ripples.jpg
 layout: post
 category: voluntary-submissions-blog
 ---
-
-# Coady's Story
 
 ### INTRODUCTION
 
