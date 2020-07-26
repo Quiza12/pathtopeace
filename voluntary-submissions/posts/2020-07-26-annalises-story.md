@@ -2,7 +2,7 @@
 title: Annalise's Story
 excerpt: >-
   "It was that day I discovered how serious my behaviours were and the importance to make a change."
-date: '2020-06-12'
+date: '2020-07-26'
 thumb_img_path: voluntary-submissions/images/vt-2.jpg
 content_img_path: images/header-bg-ripples.jpg
 layout: post
