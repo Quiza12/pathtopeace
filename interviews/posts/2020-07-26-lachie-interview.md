@@ -12,7 +12,7 @@ category: interviews-blog
 # Lachie's Interview 
 
 ## Interview
-Lachie has found strength and rehabilitation through engaging in healthy behaviours, being open with others, and trying new things!
+In this interview, Lachie talks on the overarching impact of anxiety, leading into depression and a suicide attempt.Lachie has found strength and rehabilitation through engaging in healthy behaviours, being open with others, and trying new things!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-ffpVgoytoA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Highlights
