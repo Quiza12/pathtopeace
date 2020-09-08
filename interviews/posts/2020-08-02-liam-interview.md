@@ -12,7 +12,6 @@ category: interviews-blog
 # Liam's Interview
 
 ## Interview
-Liam's Interview
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0dY_Gm68_wA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Highlights
