@@ -1,5 +1,5 @@
 ---
-title: Month 2 
+title: Blog 2 
 excerpt: >-
   Coming Soon!
 date: '2020-03-15'
