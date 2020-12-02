@@ -3,7 +3,7 @@ title: Alex - Stress
 excerpt: >-
    Learning how to manage stress is a key part of coping in day to day life. 
 date: '2020-2-12'
-thumb_img_path: interviews/images/voluntary-submissions:images:vt-3.jpg.jpg
+thumb_img_path: interviews/images/vt-3.jpg
 content_img_path: images/header-bg-ripples.jpg
 layout: post
 category: voluntary-submissions-blog
