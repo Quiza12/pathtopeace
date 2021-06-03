@@ -9,7 +9,7 @@ layout: interviews-blog
 category: interviews-blog
 ---
 
-I sit down with someone to discuss their mental health.
+I sit down with someone to discuss their mental health. The obstacles they've faced or are facing, and all the important details inbetween.
 
 The aim is to establish the issues and providing, in reflection:
 
@@ -17,6 +17,6 @@ The aim is to establish the issues and providing, in reflection:
 + Revelations
 + Hope
 
-I highly recommend watching these in full (if you can!). New interview every Sunday night!
+I highly recommend watching these in full (if you can!).
 
 Feel free to [contact me](mailto:lachlan.querzoli@gmail.com) if you’d like to be featured in an interview!
