@@ -1,6 +1,6 @@
 ---
 title: The Best Advice I Can Give You
-date: '2021-06-07'
+date: '2021-06-21'
 thumb_img_path: fft/images/fft-2-image.png
 content_img_path: images/fft-2-image.png
 layout: post
