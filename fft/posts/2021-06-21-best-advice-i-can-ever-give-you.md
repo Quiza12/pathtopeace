@@ -32,4 +32,4 @@ That’s the best advice I can ever give you. If you think you’ve already trus
 ![fft-2-image-2](https://user-images.githubusercontent.com/66189262/122718484-58279c00-d2b0-11eb-93c4-2c760bb0cbde.jpg)
 
 
-![5 minute workout](/images/fft-2-image-2.jpg)
+![5 minute workout](/fft/images/fft-2-image-2.jpg)
