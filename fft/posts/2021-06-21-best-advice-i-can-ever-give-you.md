@@ -7,8 +7,8 @@ layout: post
 category: fft-blog
 ---
 
-                  # The best advice I can give you: Trust in time
-
+  # The best advice I can give you: Trust in time
+                  
 As generic as that sounds, it’s one of the main constants I’ve encountered in the past couple years. Living with constant anxiety, I bounce from the past and present so erratically; it’s hard to stay grounded in the present. For some time I never had the confidence, the internal reassurance that the future would eventually pan out. I didn’t know how I would even be reassured until the future came. Well, as it
 
 I heard a saying around a couple years ago (2019) that went something like; “Where you are right now is exactly where you wanted to be a year ago”. It was hard to trust that advice when I originally heard it. I was in such a pessimistic, closed-minded attitude which didn’t have the capacity for a positive outcome/s.
