@@ -6,7 +6,7 @@ content_img_path: images/header-bg-ripples.jpg
 layout: post
 category: fft-blog
 ---
-                            TRUST IN TIME!
+                                TRUST IN TIME!
                   
 As generic as that sounds, it’s one of the main constants I’ve encountered in the past couple years. Living with constant anxiety, I bounce from the past and the future so erratically; it’s hard to stay grounded in the present. For some time I never had the confidence, the internal reassurance that the future would eventually pan out. I didn’t know how I could even be reassured until the future arrived.
 
