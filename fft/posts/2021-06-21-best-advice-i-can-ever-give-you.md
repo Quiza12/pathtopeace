@@ -1,5 +1,5 @@
 ---
-title: The Best Advice I Can Give You
+title: The Best Advice I Can Ever Give You
 date: '2021-06-21'
 thumb_img_path: fft/images/fft-2-image.png
 content_img_path: images/header-bg-ripples.jpg
@@ -7,9 +7,9 @@ layout: post
 category: fft-blog
 ---
 
-# The Best Advice I Can Give You
+# The Best Advice I Can Ever Give You
 
-                                            # The best advice I can give you: Trust in time
+                                  # The best advice I can give you: Trust in time
 
 As generic as that sounds, it’s one of the main constants I’ve encountered in the past couple years. Living with constant anxiety, I bounce from the past and present so erratically; it’s hard to stay grounded in the present. For some time I never had the confidence, the internal reassurance that the future would eventually pan out. I didn’t know how I would even be reassured until the future came. Well, as it
 
