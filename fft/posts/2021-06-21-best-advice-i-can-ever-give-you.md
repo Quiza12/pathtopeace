@@ -14,3 +14,10 @@ As generic as that sounds, it’s one of the main constants I’ve encountered i
 I heard a saying around a couple years ago (2019) that went something like; “Where you are right now is exactly where you wanted to be a year ago”. It was hard to trust that advice when I originally heard it. I was in such a pessimistic, closed-minded attitude which didn’t have the capacity for a positive outcome/s.
 
 I can safely say that, where I am right now, is exactly where I wanted to be a year ago. I still deal with some of the same problems of the past, but I have reached certain heights and experienced things I couldn’t have even fathomed in 2019. 
+
++ I now have an incredible girlfriend, who understands my past and respects my future.
++ I now have a volunteer position in my desired career, for experience purposes.
++ I now have a job in line with my career choice.
++ I am playing sports and exercising in a more efficient and flexible manner.
++ I’ve been able to return to AFL, one of my core passions since I was young. It’s brought me so much satisfaction and motivation.
++ I am really happy where my friendships are and where they’re heading.
