@@ -27,4 +27,5 @@ I don’t list these things to ‘flex’ or brag. I list these things because I
 I still have things I need to improve on if I want to ensure an improved future. That’s the beauty of it. Keep on swimming. Keep on moving forward with a goal in sight to take you away from the irrational mental strain over the mistakes of the past, and the uncertainty of the future. If you don’t have that goal, keep searching. Nothing good ever comes easy. Even at this moment, I have certain things I worry about and I question whether I’ll ever resolve them in the future. For instance, I often worry about the future of Path to Peace and staying consistent with it as each day goes by. I worry about my music, I worry about my job, I worry about relationships. But, if there’s anything I’ve learnt in the past couple years is to trust in time, and that it will all work out eventually. I know it will, and the ‘trust’ part is half the battle.
 
     As I stressed before, TRUST IN TIME!. That’s the best advice I can ever give you. If you think you’ve already trusted in time enough, you need to trust more.
-![You Got This!](/fft/images/fft-2-image-2.jpg)
+
+![fft-2-image-2](https://user-images.githubusercontent.com/66189262/122718484-58279c00-d2b0-11eb-93c4-2c760bb0cbde.jpg)
