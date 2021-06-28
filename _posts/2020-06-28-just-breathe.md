@@ -62,7 +62,7 @@ Healthy, focused breathing allows us to tap into certain nervous systems to achi
 
 The Parasympathetic nervous system is the key. This system is the body's natural method to slow down and calm down. When the body registers that you are safe and things are stable, the parasympathetic response or the ‘rest and digest’ response. While this is a natural response to stress and anxiety, you can train yourself to access this by manually tapping into the parasympathetic nervous system, through what’s called the Vagus Nerve.
 
-# The Vagus Nerve.
+# + [The Vagus Nerve](https://www.youtube.com/watch?v=FPH5CFSmYEU)
 
 The Vagus Nerve not only triggers the parasympathetic response, but it can transmit signals in both directions (body>brain and brain>body) when assessing situations. 
 
