@@ -7,6 +7,7 @@ thumb_img_path: images/just-breathe-2.jpg
 content_img_path: images/header-bg-ripples.jpg
 layout: post
 ---
+![Diaphragmic Breathing Technique](/images/just-breathe-2.jpg)
 
 Have you ever caught yourself in the middle of a stressful situation? Is this ‘situation’ an everyday experience? Notice your breathing pattern. Most likely you would have been breathing short, small breaths at a rapid pace- barely giving your body something to work with. Learning to breathe in a healthy manner is absolutely essential for all areas of health. Here’s the how and why.
 
