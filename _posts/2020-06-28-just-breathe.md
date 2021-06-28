@@ -1,5 +1,5 @@
 ---
-title: Just Breathe 
+title: Blog 2 - Just Breathe 
 excerpt: >-
   In those moments of high anxiety and stress, these breathing techniques are vital to relieve stress, and use that nervous energy to move forward.
 date: '2020-06-28'
