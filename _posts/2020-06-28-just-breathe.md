@@ -3,7 +3,7 @@ title: Just Breathe
 excerpt: >-
   In those moments of high anxiety and stress, these breathing techniques are vital to relieve stress, and use that nervous energy to move forward.
 date: '2020-06-28'
-thumb_img_path: images/just-breathe.jpeg
+thumb_img_path: images/just-breathe-2.jpg
 content_img_path: images/header-bg-ripples.jpg
 layout: post
 ---
