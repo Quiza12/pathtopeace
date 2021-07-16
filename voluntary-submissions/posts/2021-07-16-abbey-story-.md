@@ -8,7 +8,7 @@ content_img_path: images/header-bg-ripples.jpg
 layout: post
 category: voluntary-submissions-blog
 ---
-![Diaphragmic Breathing Technique](voluntary-submissions/images/vt-4.jpg)
+![Abbey's Story](voluntary-submissions/images/vt-4.jpg)
 
 # Introduction
 
