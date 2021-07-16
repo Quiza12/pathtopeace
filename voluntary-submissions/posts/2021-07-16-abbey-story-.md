@@ -8,6 +8,8 @@ content_img_path: images/header-bg-ripples.jpg
 layout: post
 category: voluntary-submissions-blog
 ---
+![Diaphragmic Breathing Technique](voluntary-submissions/images/vt-4.jpg)
+
 # Introduction
 
 Having lived my whole life with anxiety, I can’t really pinpoint exactly where all these feelings and thoughts started. It’s a family gene, one that unfortunately was passed down to me and mostly ruined my life. It was originally a very very mild case, however, as I experienced life and relationships things only got worse as I spiraled into a very serious depression and had a very strong hate for myself during my teens. As I am about to leap into my 20s, I am doing everything I can to make sure anxiety doesn’t hold its power over me, rather I hold my power over IT.
