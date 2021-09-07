@@ -16,7 +16,7 @@ This is where *YOU* can come in! I am accepting all submissions that are sent in
 + Anything!- Feel free to contact with any questions about these. The more the better!
 
 ### #YESMEANSYES
-Also, on the 7th September 2021 we are accepting voluntary submissions in regards to sexual assualt, harassment and abuse
+Also, on the 7th September 2021 we are accepting voluntary submissions in regard to sexual assualt, harassment and abuse
 + This can be a personal testimony of your experience with sexual assault, harassment or abuse 
 
 This is where the ‘For the People, By the People’ approach can come into play. [Feel free to send them through to me](mailto:lachlan.querzoli@gmail.com).
