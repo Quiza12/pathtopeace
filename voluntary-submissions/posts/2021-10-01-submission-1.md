@@ -46,7 +46,7 @@ This was undoubtedly the worst sexual experience I’ve had but I think it is im
 	+ There is also an anonymous and informal reporting option known as SARO. 
 	+ The main difference between the two reporting mechanisms is the latter does not automatically result in a criminal investigation being undertaken. 
 	+ [Police Report - What happens?](https://www.police.nsw.gov.au/crime/sex_crimes/adult_sexual_assault/sexual_assault_categories/what_happens_to_your_report)
-	+ For reporting through SARO: + [SARO](https://www.police.nsw.gov.au/__data/assets/pdf_file/0009/475794/SARO_Form_200213.pdf.)  
+	+ For reporting through SARO: [SARO](https://www.police.nsw.gov.au/__data/assets/pdf_file/0009/475794/SARO_Form_200213.pdf.)  
 + No matter how severe you think it is, it matters. 
 + Sexual assault is sexual assault, from acts such as rape, to inappropriate touching, staring and comments; it is NEVER okay. 
 + Please don’t downplay your experience because “it could’ve been worse”. All experiences matter. Your standard of what's ‘okay’ and ‘not okay’ must be respected.
