@@ -40,13 +40,13 @@ This was undoubtedly the worst sexual experience I’ve had but I think it is im
 + IT IS NOT YOUR FAULT. I spent years blaming myself for so many things i.e going to the party, drinking, taking up his offer for going for a walk, not being more firm when saying no. But what happened to me was not my fault, and it is so important for anybody who was sexually assaulted to know this. 
 + Any emotion you are feeling is valid. I suppressed all my emotions after that night, because I didn’t understand what happened to me and it seemed so much easier at the time to ignore it, than face it. It isn’t until now, that I can see so many other issues surfaced because I ignored how I was feeling. It is really hard to experience all the emotions that come with being sexually assaulted. This happened to me three and half years ago, but there are still days where I get triggered by something (such as reading similar experiences). I’ve learnt just to accept every emotion and give myself time to feel it. 
 + Tell someone. This was really hard for me, but it was so rewarding. There is so much fear correlated with talking about sexual assault experiences, particularly when you see how other brave sexual assault victims are treated. I was so scared I wouldn’t be believed or people would look at me differently. But the two people I told were incredible and made me feel so supported. It sounds super cliche, but it felt like a major weight was lifted off my shoulders. So speak up about it (whenever you are ready), I promise it is so worth it.  
-+ Report it. If you are comfortable and it is something you are wanting to do there are a few ways of reporting. I know there is an option to go through the police. I have never spoken to the police about my experience, so I don’t know a lot about this process. Follow this link-https://www.police.nsw.gov.au/crime/sex_crimes/adult_sexual_assault-for more information about how to undertake this process. There is also an anonymous and informal reporting option known as SARO. The main difference between the two reporting mechanisms is the latter does not automatically result in a criminal investigation being undertaken. For more information see https://www.police.nsw.gov.au/crime/sex_crimes/adult_sexual_assault/sexual_assault_categories/what_happens_to_your_report. If you want to report through SARO, this is the link https://www.police.nsw.gov.au/__data/assets/pdf_file/0009/475794/SARO_Form_200213.pdf. 
-+ No matter how severe you think it is, it matters. Sexual assault is sexual assault, from acts such as rape, to inappropriate touching, staring and comments; it is NEVER okay. Please don’t downplay your experience because “it could’ve been worse”. All experiences matter. Your standard of what's ‘okay’ and ‘not okay’ must be respected.
-
-
-
-
-
-
-
++ Report it. If you are comfortable and it is something you are wanting to do there are a few ways of reporting. I know there is an option to go through the police. I have never spoken to the police about my experience, so I don’t know a lot about this process. 
+	+ Follow this link- https://www.police.nsw.gov.au/crime/sex_crimes/adult_sexual_assault-for more information about how to undertake this process. 
+	+ There is also an anonymous and informal reporting option known as SARO. 
+	+ The main difference between the two reporting mechanisms is the latter does not automatically result in a criminal investigation being undertaken. 
+	+ For more information see https://www.police.nsw.gov.au/crime/sex_crimes/adult_sexual_assault/sexual_assault_categories/what_happens_to_your_report. 
+	+ If you want to report through SARO, this is the link https://www.police.nsw.gov.au/__data/assets/pdf_file/0009/475794/SARO_Form_200213.pdf. 
++ No matter how severe you think it is, it matters. 
++ Sexual assault is sexual assault, from acts such as rape, to inappropriate touching, staring and comments; it is NEVER okay. 
++ Please don’t downplay your experience because “it could’ve been worse”. All experiences matter. Your standard of what's ‘okay’ and ‘not okay’ must be respected.
 
