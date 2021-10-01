@@ -1,5 +1,5 @@
 ---
-title: Submission 1 #yeasmeansyes
+title: Submission 1 
 excerpt: >-
    "I never told anyone what happened to me because I felt so dirty and ashamed." 
 date: '2021-10-01'
