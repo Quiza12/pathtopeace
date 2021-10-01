@@ -2,13 +2,13 @@
 title: Submission 1 - Yes Means Yes
 excerpt: >-
    "I never told anyone what happened to me because I felt so dirty and ashamed." 
-date: '2021-10-01'
+date: '2021-10-03'
 thumb_img_path: voluntary-submissions/images/yes-means-yes-1.png
 content_img_path: images/header-bg-ripples.jpg
 layout: post
 category: voluntary-submissions-blog
 ---
-# #yesmeansyes #1
+# #yesmeansyes
 
 ## Introduction
 
