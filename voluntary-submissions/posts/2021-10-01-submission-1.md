@@ -1,5 +1,5 @@
 ---
-title: Submission 1 
+title: Submission 1 #yeasmeansyes
 excerpt: >-
    "I never told anyone what happened to me because I felt so dirty and ashamed." 
 date: '2021-10-01'
@@ -10,11 +10,11 @@ category: voluntary-submissions-blog
 ---
 # #YESMEANSYES
 
-# Introduction
+## Introduction
 
 It was a sunday night and I was sixteen. I was attending a party with most of my girlfriends. There were boys from another local school there that I wasn't familiar with. Like most parties around this time, I was drinking and planning on having a big night since it was in the middle of school holidays. I met a boy at the party, he seemed pretty nice and he offered to get me a few drinks, since I didn’t bring my own. I thought it was a bit weird that he wasn’t drinking but I didn’t really think much of it. 
 
-# Recount
+## Recount
 
 As the night went on I became more intoxicated and parts of the night are blurry, however I do remember most of it. I was still hanging out with this guy and I consented to kissing him. We had gone for some walks around the property and mingled with the rest of the party. As I became more intoxicated, I began to fall asleep in his lap. At this stage I was pretty drunk.
 
@@ -25,7 +25,7 @@ Not long after my dad had arrived at the party to come and pick me up. I remembe
 The first time I told anyone was two and a half years later. At this point, I still wasn’t aware that it was sexual assault, I just referred to it as a “bad thing that happened to me.” It wasn’t until earlier this year (over four years later), when I read a story almost identical to mine, did I realise I was sexually assaulted. This is only the third time I have told this story. 
 
 
-# Revelations:
+## Revelations:
 
 This was undoubtedly the worst sexual experience I’ve had but I think it is important to mention some other sexual assault microaggressions that happen ALL the time. Every single one of my female friends have experienced something similar to this. 
 
@@ -36,7 +36,7 @@ This was undoubtedly the worst sexual experience I’ve had but I think it is im
 	+ While these experiences, may seem insignificant, dismissing comments and actions such as these, is what contributes to a rape culture society. To transition away from a rape culture society, behaviour like this needs to be called out. 
 
 
-# Advice:
+## Advice:
 
 + IT IS NOT YOUR FAULT. I spent years blaming myself for so many things i.e going to the party, drinking, taking up his offer for going for a walk, not being more firm when saying no. But what happened to me was not my fault, and it is so important for anybody who was sexually assaulted to know this. 
 + Any emotion you are feeling is valid. I suppressed all my emotions after that night, because I didn’t understand what happened to me and it seemed so much easier at the time to ignore it, than face it. It isn’t until now, that I can see so many other issues surfaced because I ignored how I was feeling. It is really hard to experience all the emotions that come with being sexually assaulted. This happened to me three and half years ago, but there are still days where I get triggered by something (such as reading similar experiences). I’ve learnt just to accept every emotion and give myself time to feel it. 
