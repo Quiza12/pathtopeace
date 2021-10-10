@@ -2,7 +2,7 @@
 title: Submission 2 - Yes Means Yes
 excerpt: >-
    "Persistence to change an answer is not the answer." 
-date: '2021-10-12'
+date: '2021-10-11'
 thumb_img_path: voluntary-submissions/images/yes-means-yes-2.png
 content_img_path: images/header-bg-ripples.jpg
 layout: post
