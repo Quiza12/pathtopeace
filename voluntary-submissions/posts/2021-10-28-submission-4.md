@@ -21,5 +21,3 @@ a lot of rebuilding to do but I couldn’t bring myself to tell my brother, so t
 a small portion of what had happened, and the friend was cut off completely. This was one of the biggest moments for me as I always felt it was my fault, that if I
 wasn’t drunk or if I stayed downstairs things would have ended differently and that this awful thing wouldn’t have happened to me. But, my brothers support/love and most importantly the belief that it wasn’t my fault changed things for the better and gave me the peace of mind knowing that it wasn’t my fault and that I 
 shouldn’t be ashamed. Sometimes even now I have trouble in party settings and trusting people but that is something I am working on every day. 
-
-*yesmeansyes*
