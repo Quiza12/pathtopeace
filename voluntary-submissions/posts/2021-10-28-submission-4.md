@@ -18,6 +18,7 @@ left unsaid. After he left my room, he went back to the party with my friends an
 This experience changed me as a person and how I view my own safety as my house and my room was somewhere I always felt safe, but this was taken away from me. I had
 a lot of rebuilding to do but I couldn’t bring myself to tell my brother, so the friend kept coming around until I finally built up the courage and told my brother 
 a small portion of what had happened, and the friend was cut off completely. This was one of the biggest moments for me as I always felt it was my fault, that if I
-wasn’t drunk or if I stayed downstairs things would have ended differently and that this awful thing wouldn’t have happened to me but my brothers support and love
-and most importantly belief that it wasn’t my fault changed things for the better and gave me the peace of mind knowing that it wasn’t all my fault and that I 
+wasn’t drunk or if I stayed downstairs things would have ended differently and that this awful thing wouldn’t have happened to me. But, my brothers support/love and most importantly the belief that it wasn’t my fault changed things for the better and gave me the peace of mind knowing that it wasn’t my fault and that I 
 shouldn’t be ashamed. Sometimes even now I have trouble in party settings and trusting people but that is something I am working on every day. 
+
+*yesmeansyes*
