@@ -8,6 +8,8 @@ content_img_path: images/header-bg-ripples.jpg
 layout: post
 category: voluntary-submissions-blog
 ---
+# #yesmeansyes
+
 Around the age of 20 whilst working in a city legal office, I had an experience that whilst not serious in nature, speaks volumes in general. 
 I was asked out to lunch by two of the men I worked for, which I thought was very nice. Whilst at lunch, they started talking about going back to a hotel. 
 It was said in a joking sort of fashion, along the lines of 'why don't we go back to a hotel after lunch'. I wasn't sure if this was a serious suggestion or 
