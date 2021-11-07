@@ -39,13 +39,13 @@ I don’t have all the answers but push on the pain keep on searching and we’l
 
 
 
-*It’s my life let me go
+###### *It’s my life let me go*
 
-*If it’s my time let me go
+###### *If it’s my time let me go*
 
-*It’s my life let me go
+###### *It’s my life let me go*
 
-*Lord I wish I could let, go
+###### *Lord I wish I could let, go*
 
 
 I took a lil’ swim with the stars in the deep end I stopped for a breath and I dove
