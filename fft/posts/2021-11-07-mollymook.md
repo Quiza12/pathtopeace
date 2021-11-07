@@ -39,13 +39,18 @@ I don’t have all the answers but push on the pain keep on searching and we’l
 
 
 
-###### *It’s my life let me go*
 
-###### *If it’s my time let me go*
 
-###### *It’s my life let me go*
+It’s my life let me go
 
-###### *Lord I wish I could let, go*
+If it’s my time let me go
+
+It’s my life let me go
+
+Lord I wish I could let, go
+
+
+
 
 
 I took a lil’ swim with the stars in the deep end I stopped for a breath and I dove
@@ -66,18 +71,19 @@ Please just know that I’m with you the mourning will wake you and show you wha
 
 
 
-*It’s my life let me go!
 
-*If it’s my time let me go!
 
-*It’s MY life let me go!
+It’s my life let me go!
 
-*I just wish I could let, go…
+If it’s my time let me go!
+
+It’s MY life let me go!
+
+I just wish I could let, go…
+
+
 
 
 <p id="fiveMinutes"></p>
 The definition of insanity is doing the same thing over and over again and expecting a different result.
-
-
-
 
