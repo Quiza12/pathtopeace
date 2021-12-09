@@ -67,7 +67,7 @@ Least I see through the lies of the ones who control us I trust in that karma fo
 
 Arrangements been made and the stones have all turned and so this is my final goodbye
 
-Please just know that I’m with you the mourning will wake you and show you what comes at a price
+Please just know that I’m with you, the mourning will wake you and show you what comes at a price
 
 
 
