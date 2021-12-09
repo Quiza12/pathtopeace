@@ -41,13 +41,13 @@ I don’t have all the answers but push on the pain keep on searching and we’l
 
 
 
-It’s my life let me go...
+##### It’s my life let me go...
 
-If it’s my time let me go...
+##### It's my life let me go...
 
-It’s my life let me go...
+##### It’s my life let me go...
 
-Lord I wish I could let, go...
+##### Lord I wish I could let, go...
 
 
 
@@ -73,18 +73,20 @@ Please just know that I’m with you the mourning will wake you and show you wha
 
 
 
-It’s my life let me go!
+##### It’s my life let me go!
 
-If it’s my time let me go!
+##### It’s MY life let me go! 
 
-It’s MY life let me go!
+##### If it’s my time let me go!
 
-I just wish I could let, go…
-
-
+##### Oh I can finally let, go...
 
 
 
+
+
+
+### A deep dive
 
 *"Searching for light in the darkest abyss it reminds me of why I’m alone."*
    + The definition of insanity is doing the same thing over and over again and expecting a different result.
