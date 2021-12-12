@@ -21,7 +21,7 @@ I immediately wanted to leave, but again my friends didn’t want to. So I said 
 drugs. In particular, he was offering drinks and drugs to one of our friends that was really drunk and not playing games. After we played for around 30 mins, we 
 noticed we hadn’t seen the one friend who wasn’t playing for a while. We asked around and someone said she was in the bathroom with the guy who had been offering 
 her drugs. We tried to knock on the door several times because it was locked to get them to open it and check she was okay, but we heard nothing and there was no
-response. Because she wouldn’t answer, I used a coin to open the door and get in. Essentially, we found OD’d and the guy was just as fucked but cohesive.
+response. Because she wouldn’t answer, I used a coin to open the door and get in. Essentially, we found her OD’d and the guy was just as fucked but cohesive.
 
 So we pulled her out of there, and I called an ambulance and put her into the recovery position. While I was doing this and performing CPR the same guy who had 
 given her the drugs came up behind me, and grabbed between my legs. Because I was so focused on my friend, I initially didn’t even register what was happening. It 
@@ -33,4 +33,4 @@ records. So even though I was completely sober (I don’t do drugs and I had one
 So sadly, the guy got away with both giving my friend god knows what, and sexually assaulting me.Unfortunately, things like this happen constantly, and because
 there’s such a strict standard of proof, so many people get ignored. 
 
-#### It really does build a culture of not wanting to report incidents :(
+### It really does build a culture of not wanting to report incidents :(
