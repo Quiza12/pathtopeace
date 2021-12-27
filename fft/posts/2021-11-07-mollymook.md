@@ -57,7 +57,7 @@ I took a lil’ swim with the stars in the deep end I stopped for a breath and I
 
 Searching for light in the darkest abyss it reminds me of why I’m alone
 
-When leaving my home I just waived them goodbye like there’s no need to worry ‘bout me
+When leaving my home I just waved them goodbye like there’s no need to worry ‘bout me
 
 If I’m right to perceive and prepare for the worst am I wrong to embrace it with glee? (talk about destined to repeat mistakes, circle etc.)
 
