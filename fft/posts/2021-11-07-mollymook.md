@@ -21,11 +21,11 @@ So, here is Mollymook by Lachlan Querzoli
 
 
 
-![fft mollymook 1](fft/images/fft-mollymook-1.png)
+![fft mollymook 1](/images/fft-mollymook-1.png)
 
-![fft mollymook 2](fft/images/fft-mollymook-2.png)
+![fft mollymook 2](/images/fft-mollymook-2.png)
 
-![fft mollymook 3](fft/images/fft-mollymook-3.png)
+![fft mollymook 3](/images/fft-mollymook-3.png)
 
 
 ### A deep dive
