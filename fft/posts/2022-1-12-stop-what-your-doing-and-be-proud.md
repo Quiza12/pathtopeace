@@ -26,13 +26,13 @@ That’s when it hit me. I haven’t once stopped to acknowledge what I’m prou
 on and on. And no I don’t say that to brag or gloat, because you have things to be proud of too. 
 
 I want you to stop and think for a moment. Recount the past month and ask yourself; 
-*What am I proud of? 
+What am I proud of? 
 
 Recount the past year and ask yourself; 
-*What am I proud of?
+What am I proud of?
 
 Recount the past couple years and ask yourself; 
-*What am I proud of?
+What am I proud of?
 
 Doesn’t matter how big or small it is. Anything that comes to mind where you’ve seen growth, recognised change or taken a next step in a certain area; acknowledge 
 it and be proud.
