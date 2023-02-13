@@ -10,7 +10,7 @@ layout: page
 
 Path to Peace is a mission for mental health and wellbeing. A ‘For the People, by the People’ approach is designed to appeal to all who are struggling with their mental health.
 
-One word: Empower. We strive to empower YOU with the skills, strategies and knowledge to overcome your struggles and work for a life you love. Path to Peace provides:
+One word: Empower. I strive to empower YOU with the skills, strategies and knowledge to overcome your struggles and work for a life you love. Path to Peace provides:
 
 * [Interviews]({% link interviews.md %})
 * [Blog]({% link blog.md %})
