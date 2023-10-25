@@ -1,5 +1,5 @@
 ---
-title: Coady's Story
+title: Sarah's Story
 excerpt: >-
   "Eating disorders are MENTAL illnesses, and they need to be treated as such."
 date: '2020-05-24'
